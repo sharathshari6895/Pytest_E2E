@@ -10,7 +10,7 @@ class TestLogin(BaseTest):
 
     # Test scenario for logging into the application with valid credentials
     @pytest.mark.run(order=1)
-    @pytest.mark.parametrize("browser", ["chrome", "edge"])
+    @pytest.mark.parametrize("browser", ["edge","chrome"])
     def test_valid_sign_in(self, setup_pages, ui_data, assertion_data, logger_setup, init_driver, browser):
         logging.getLogger("root").info("Starting test_valid_signin")
         allure.attach('Starting test_valid_signin', attachment_type=allure.attachment_type.TEXT)
