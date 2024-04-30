@@ -1,0 +1,5 @@
+INFO     root:test_bigoven.py:69 Starting  test_remove_recipe_from_favorites
+INFO     root:test_bigoven.py:74 Login Successful
+INFO     root:test_bigoven.py:78 New Recipe added successfully
+INFO     root:test_bigoven.py:83 Presence of newly added recipe 
+INFO     root:test_bigoven.py:86 Ending test_adding_new_recipe

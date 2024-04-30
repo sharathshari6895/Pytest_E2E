@@ -1,0 +1,1 @@
+WARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:144 There was an error managing chrome (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json): error trying to connect: An existing connection was forcibly closed by the remote host. (os error 10054)); using driver found in the cache

@@ -1,0 +1,3 @@
+Clicked on Add to cart
+CartItem is removed
+Shopping cart badge not found.

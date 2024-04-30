@@ -1,0 +1,5 @@
+INFO     root:test_bigoven.py:17 Starting test_adding_recipe_to_favorites
+INFO     root:test_bigoven.py:22 Login Successful
+ERROR    root:bigoven_favorite_recipes.py:135 Element is not present
+INFO     root:test_bigoven.py:29 Recipe added successfully to the Favorite List
+INFO     root:test_bigoven.py:33 Ending test_adding_recipe_to_favorites

@@ -1,0 +1,3 @@
+Product 'Sauce Labs Backpack' is present
+Clicked on Add to cart
+Add to Cart successfully

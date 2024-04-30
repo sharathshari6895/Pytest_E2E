@@ -1,0 +1,4 @@
+INFO     root:test_cartPage.py:37 Starting test_remove_from_cart
+INFO     root:test_cartPage.py:41 Product added to the cart successfully
+INFO     root:test_cartPage.py:45 Product is removed from the cart successfully
+INFO     root:test_cartPage.py:48 Ending test_remove_from_cart

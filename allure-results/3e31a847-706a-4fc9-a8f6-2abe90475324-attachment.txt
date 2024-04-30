@@ -1,0 +1,4 @@
+04/24/2024 12:04:36 PM - ERROR - root : Assertion Error occurred: assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'
+  - https://www.saucedemo.com/inventory.html
+  ?                           --------------
+  + https://www.saucedemo.com/

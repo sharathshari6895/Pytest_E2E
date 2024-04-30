@@ -1,0 +1,2 @@
+INFO     root:test_api.py:130 Starting test_delete_booking
+INFO     root:test_api.py:141 Booking deleted successfully

@@ -1,0 +1,3 @@
+INFO     root:test_checkout.py:14 Starting test_checkout
+INFO     root:test_checkout.py:21 Adding user details for checkout
+INFO     root:test_checkout.py:27 Checkout Successful
