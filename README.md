@@ -23,7 +23,7 @@ Additionally, ensure you have the following setup:
 
 # 2. Create a Virtual Environment:
 ##    Navigate to the project directory and create a virtual environment using the following command:
-             	python -m venv venv
+        python -m venv venv
 
 # 3. Activate the Virtual Environment:
 	venv\Scripts\activate
