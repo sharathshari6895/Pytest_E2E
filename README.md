@@ -18,12 +18,12 @@ This project is a combination of UI, API, and mobile automation tests using Pyth
 Additionally, ensure you have the following setup:
 
 # 1. Clone the Project: 
-        Clone the project repository from GitHub using the following command:
-##         https://github.com/sharathshari6895/Pytest_E2E
+      ##  Clone the project repository from GitHub using the following command:
+       git clone https://github.com/sharathshari6895/Pytest_E2E
 
 # 2. Create a Virtual Environment:
-        Navigate to the project directory and create a virtual environment using the following command:
-##              	python -m venv venv
+     ##    Navigate to the project directory and create a virtual environment using the following command:
+             	python -m venv venv
 
 # 3. Activate the Virtual Environment:
 	venv\Scripts\activate
