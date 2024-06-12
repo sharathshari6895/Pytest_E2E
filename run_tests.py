@@ -8,12 +8,12 @@ def run_tests(test_file):
 
 
 # Create a ThreadPoolExecutor with 3 worker threads
-with ThreadPoolExecutor(max_workers=1) as executor:
+with ThreadPoolExecutor(max_workers=4) as executor:
     # Submit tasks for each test file
     futures = [
-        # executor.submit(run_tests, ui_test_file),
-        # executor.submit(run_tests, api_test_file),
-        # executor.submit(run_tests, mobile_test_file),
+        executor.submit(run_tests, ui_test_file),
+        executor.submit(run_tests, api_test_file),
+        executor.submit(run_tests, mobile_test_file),
         executor.submit(run_tests, accessibility_test_file)
     ]
 
