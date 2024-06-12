@@ -23,6 +23,7 @@ pytest
 pytest-html
 pytest-metadata
 pytest-ordering
+reportportal-client
 requests
 selenium
 setuptools
